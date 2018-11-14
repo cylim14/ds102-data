@@ -1,0 +1,400 @@
+year,level_1,value
+1960,Infant Mortality Rate,34.9
+1960,Infant Mortality Rate - Males,37.9
+1960,Infant Mortality Rate - Females,31.7
+1960,Neonatal Mortality Rate,17.7
+1960,Under-5 Mortality Rate,45.9
+1960,Under-5 Mortality Rate - Males,49.5
+1960,Under-5 Mortality Rate - Females,41.9
+1961,Infant Mortality Rate,32.3
+1961,Infant Mortality Rate - Males,35.7
+1961,Infant Mortality Rate - Females,28.7
+1961,Neonatal Mortality Rate,17.7
+1961,Under-5 Mortality Rate,na
+1961,Under-5 Mortality Rate - Males,na
+1961,Under-5 Mortality Rate - Females,na
+1962,Infant Mortality Rate,31.2
+1962,Infant Mortality Rate - Males,36.3
+1962,Infant Mortality Rate - Females,25.9
+1962,Neonatal Mortality Rate,19.1
+1962,Under-5 Mortality Rate,na
+1962,Under-5 Mortality Rate - Males,na
+1962,Under-5 Mortality Rate - Females,na
+1963,Infant Mortality Rate,28.1
+1963,Infant Mortality Rate - Males,32.5
+1963,Infant Mortality Rate - Females,23.5
+1963,Neonatal Mortality Rate,18.4
+1963,Under-5 Mortality Rate,na
+1963,Under-5 Mortality Rate - Males,na
+1963,Under-5 Mortality Rate - Females,na
+1964,Infant Mortality Rate,29.9
+1964,Infant Mortality Rate - Males,33.6
+1964,Infant Mortality Rate - Females,25.8
+1964,Neonatal Mortality Rate,19.6
+1964,Under-5 Mortality Rate,na
+1964,Under-5 Mortality Rate - Males,na
+1964,Under-5 Mortality Rate - Females,na
+1965,Infant Mortality Rate,26.3
+1965,Infant Mortality Rate - Males,30.5
+1965,Infant Mortality Rate - Females,21.8
+1965,Neonatal Mortality Rate,17.9
+1965,Under-5 Mortality Rate,34.6
+1965,Under-5 Mortality Rate - Males,38.2
+1965,Under-5 Mortality Rate - Females,30.7
+1966,Infant Mortality Rate,25.8
+1966,Infant Mortality Rate - Males,28.3
+1966,Infant Mortality Rate - Females,23.1
+1966,Neonatal Mortality Rate,16.6
+1966,Under-5 Mortality Rate,na
+1966,Under-5 Mortality Rate - Males,na
+1966,Under-5 Mortality Rate - Females,na
+1967,Infant Mortality Rate,24.8
+1967,Infant Mortality Rate - Males,27.2
+1967,Infant Mortality Rate - Females,22.1
+1967,Neonatal Mortality Rate,16.7
+1967,Under-5 Mortality Rate,na
+1967,Under-5 Mortality Rate - Males,na
+1967,Under-5 Mortality Rate - Females,na
+1968,Infant Mortality Rate,23.4
+1968,Infant Mortality Rate - Males,25.5
+1968,Infant Mortality Rate - Females,21
+1968,Neonatal Mortality Rate,15.9
+1968,Under-5 Mortality Rate,na
+1968,Under-5 Mortality Rate - Males,na
+1968,Under-5 Mortality Rate - Females,na
+1969,Infant Mortality Rate,20.9
+1969,Infant Mortality Rate - Males,23.3
+1969,Infant Mortality Rate - Females,18.2
+1969,Neonatal Mortality Rate,14.5
+1969,Under-5 Mortality Rate,na
+1969,Under-5 Mortality Rate - Males,na
+1969,Under-5 Mortality Rate - Females,na
+1970,Infant Mortality Rate,20.5
+1970,Infant Mortality Rate - Males,22.2
+1970,Infant Mortality Rate - Females,18.7
+1970,Neonatal Mortality Rate,14.6
+1970,Under-5 Mortality Rate,25.3
+1970,Under-5 Mortality Rate - Males,27.6
+1970,Under-5 Mortality Rate - Females,22.7
+1971,Infant Mortality Rate,20.1
+1971,Infant Mortality Rate - Males,22.5
+1971,Infant Mortality Rate - Females,17.6
+1971,Neonatal Mortality Rate,14
+1971,Under-5 Mortality Rate,na
+1971,Under-5 Mortality Rate - Males,na
+1971,Under-5 Mortality Rate - Females,na
+1972,Infant Mortality Rate,19.2
+1972,Infant Mortality Rate - Males,22.6
+1972,Infant Mortality Rate - Females,15.6
+1972,Neonatal Mortality Rate,14.4
+1972,Under-5 Mortality Rate,na
+1972,Under-5 Mortality Rate - Males,na
+1972,Under-5 Mortality Rate - Females,na
+1973,Infant Mortality Rate,20.3
+1973,Infant Mortality Rate - Males,23.7
+1973,Infant Mortality Rate - Females,16.4
+1973,Neonatal Mortality Rate,14.3
+1973,Under-5 Mortality Rate,na
+1973,Under-5 Mortality Rate - Males,na
+1973,Under-5 Mortality Rate - Females,na
+1974,Infant Mortality Rate,16.8
+1974,Infant Mortality Rate - Males,19.7
+1974,Infant Mortality Rate - Females,13.6
+1974,Neonatal Mortality Rate,12.1
+1974,Under-5 Mortality Rate,na
+1974,Under-5 Mortality Rate - Males,na
+1974,Under-5 Mortality Rate - Females,na
+1975,Infant Mortality Rate,13.9
+1975,Infant Mortality Rate - Males,15.9
+1975,Infant Mortality Rate - Females,11.6
+1975,Neonatal Mortality Rate,10.2
+1975,Under-5 Mortality Rate,18
+1975,Under-5 Mortality Rate - Males,20.4
+1975,Under-5 Mortality Rate - Females,15.3
+1976,Infant Mortality Rate,11.6
+1976,Infant Mortality Rate - Males,13.7
+1976,Infant Mortality Rate - Females,9.4
+1976,Neonatal Mortality Rate,8.3
+1976,Under-5 Mortality Rate,na
+1976,Under-5 Mortality Rate - Males,na
+1976,Under-5 Mortality Rate - Females,na
+1977,Infant Mortality Rate,12.4
+1977,Infant Mortality Rate - Males,14.6
+1977,Infant Mortality Rate - Females,9.9
+1977,Neonatal Mortality Rate,9.3
+1977,Under-5 Mortality Rate,na
+1977,Under-5 Mortality Rate - Males,na
+1977,Under-5 Mortality Rate - Females,na
+1978,Infant Mortality Rate,12.6
+1978,Infant Mortality Rate - Males,14.9
+1978,Infant Mortality Rate - Females,10.1
+1978,Neonatal Mortality Rate,9.7
+1978,Under-5 Mortality Rate,na
+1978,Under-5 Mortality Rate - Males,na
+1978,Under-5 Mortality Rate - Females,na
+1979,Infant Mortality Rate,13.2
+1979,Infant Mortality Rate - Males,14.3
+1979,Infant Mortality Rate - Females,12
+1979,Neonatal Mortality Rate,9.8
+1979,Under-5 Mortality Rate,na
+1979,Under-5 Mortality Rate - Males,na
+1979,Under-5 Mortality Rate - Females,na
+1980,Infant Mortality Rate,8
+1980,Infant Mortality Rate - Males,8.3
+1980,Infant Mortality Rate - Females,7.7
+1980,Neonatal Mortality Rate,8.9
+1980,Under-5 Mortality Rate,11.6
+1980,Under-5 Mortality Rate - Males,12.1
+1980,Under-5 Mortality Rate - Females,11.1
+1981,Infant Mortality Rate,8.2
+1981,Infant Mortality Rate - Males,9
+1981,Infant Mortality Rate - Females,7.4
+1981,Neonatal Mortality Rate,7.6
+1981,Under-5 Mortality Rate,10.9
+1981,Under-5 Mortality Rate - Males,12.1
+1981,Under-5 Mortality Rate - Females,9.7
+1982,Infant Mortality Rate,9.6
+1982,Infant Mortality Rate - Males,11.6
+1982,Infant Mortality Rate - Females,7.3
+1982,Neonatal Mortality Rate,8.2
+1982,Under-5 Mortality Rate,11
+1982,Under-5 Mortality Rate - Males,12.1
+1982,Under-5 Mortality Rate - Females,9.8
+1983,Infant Mortality Rate,8.8
+1983,Infant Mortality Rate - Males,9.7
+1983,Infant Mortality Rate - Females,7.9
+1983,Neonatal Mortality Rate,6.6
+1983,Under-5 Mortality Rate,10.4
+1983,Under-5 Mortality Rate - Males,11.5
+1983,Under-5 Mortality Rate - Females,9.2
+1984,Infant Mortality Rate,7.3
+1984,Infant Mortality Rate - Males,7.5
+1984,Infant Mortality Rate - Females,7
+1984,Neonatal Mortality Rate,6.2
+1984,Under-5 Mortality Rate,9.9
+1984,Under-5 Mortality Rate - Males,10.6
+1984,Under-5 Mortality Rate - Females,9.2
+1985,Infant Mortality Rate,7.6
+1985,Infant Mortality Rate - Males,8.3
+1985,Infant Mortality Rate - Females,6.8
+1985,Neonatal Mortality Rate,7
+1985,Under-5 Mortality Rate,8.2
+1985,Under-5 Mortality Rate - Males,8.7
+1985,Under-5 Mortality Rate - Females,7.6
+1986,Infant Mortality Rate,6.1
+1986,Infant Mortality Rate - Males,6.1
+1986,Infant Mortality Rate - Females,6
+1986,Neonatal Mortality Rate,6.5
+1986,Under-5 Mortality Rate,7.6
+1986,Under-5 Mortality Rate - Males,8.2
+1986,Under-5 Mortality Rate - Females,7.1
+1987,Infant Mortality Rate,5.5
+1987,Infant Mortality Rate - Males,6
+1987,Infant Mortality Rate - Females,4.9
+1987,Neonatal Mortality Rate,5.6
+1987,Under-5 Mortality Rate,7.7
+1987,Under-5 Mortality Rate - Males,8.1
+1987,Under-5 Mortality Rate - Females,7.2
+1988,Infant Mortality Rate,5.5
+1988,Infant Mortality Rate - Males,5.6
+1988,Infant Mortality Rate - Females,5.4
+1988,Neonatal Mortality Rate,4.6
+1988,Under-5 Mortality Rate,7.2
+1988,Under-5 Mortality Rate - Males,7.5
+1988,Under-5 Mortality Rate - Females,7
+1989,Infant Mortality Rate,6.3
+1989,Infant Mortality Rate - Males,6.5
+1989,Infant Mortality Rate - Females,6
+1989,Neonatal Mortality Rate,4.6
+1989,Under-5 Mortality Rate,7.3
+1989,Under-5 Mortality Rate - Males,7.6
+1989,Under-5 Mortality Rate - Females,7
+1990,Infant Mortality Rate,6.6
+1990,Infant Mortality Rate - Males,7.1
+1990,Infant Mortality Rate - Females,6.2
+1990,Neonatal Mortality Rate,4.7
+1990,Under-5 Mortality Rate,7.5
+1990,Under-5 Mortality Rate - Males,7.9
+1990,Under-5 Mortality Rate - Females,7.1
+1991,Infant Mortality Rate,5.4
+1991,Infant Mortality Rate - Males,5.8
+1991,Infant Mortality Rate - Females,4.8
+1991,Neonatal Mortality Rate,3.5
+1991,Under-5 Mortality Rate,6.7
+1991,Under-5 Mortality Rate - Males,7.1
+1991,Under-5 Mortality Rate - Females,6.1
+1992,Infant Mortality Rate,4.8
+1992,Infant Mortality Rate - Males,5.2
+1992,Infant Mortality Rate - Females,4.4
+1992,Neonatal Mortality Rate,3
+1992,Under-5 Mortality Rate,6.1
+1992,Under-5 Mortality Rate - Males,6.6
+1992,Under-5 Mortality Rate - Females,5.6
+1993,Infant Mortality Rate,4.7
+1993,Infant Mortality Rate - Males,5
+1993,Infant Mortality Rate - Females,4.3
+1993,Neonatal Mortality Rate,3
+1993,Under-5 Mortality Rate,5.8
+1993,Under-5 Mortality Rate - Males,6.1
+1993,Under-5 Mortality Rate - Females,5.4
+1994,Infant Mortality Rate,4.1
+1994,Infant Mortality Rate - Males,4.3
+1994,Infant Mortality Rate - Females,4
+1994,Neonatal Mortality Rate,2.4
+1994,Under-5 Mortality Rate,5.3
+1994,Under-5 Mortality Rate - Males,5.8
+1994,Under-5 Mortality Rate - Females,4.8
+1995,Infant Mortality Rate,3.8
+1995,Infant Mortality Rate - Males,4.3
+1995,Infant Mortality Rate - Females,3.2
+1995,Neonatal Mortality Rate,2
+1995,Under-5 Mortality Rate,5
+1995,Under-5 Mortality Rate - Males,5.4
+1995,Under-5 Mortality Rate - Females,4.6
+1996,Infant Mortality Rate,3.6
+1996,Infant Mortality Rate - Males,3.5
+1996,Infant Mortality Rate - Females,3.5
+1996,Neonatal Mortality Rate,2.2
+1996,Under-5 Mortality Rate,4.7
+1996,Under-5 Mortality Rate - Males,5.3
+1996,Under-5 Mortality Rate - Females,4
+1997,Infant Mortality Rate,3.6
+1997,Infant Mortality Rate - Males,4
+1997,Infant Mortality Rate - Females,3.1
+1997,Neonatal Mortality Rate,2.2
+1997,Under-5 Mortality Rate,4.7
+1997,Under-5 Mortality Rate - Males,5.1
+1997,Under-5 Mortality Rate - Females,4.3
+1998,Infant Mortality Rate,4.1
+1998,Infant Mortality Rate - Males,4.1
+1998,Infant Mortality Rate - Females,4.1
+1998,Neonatal Mortality Rate,2.4
+1998,Under-5 Mortality Rate,4.5
+1998,Under-5 Mortality Rate - Males,4.8
+1998,Under-5 Mortality Rate - Females,4.1
+1999,Infant Mortality Rate,3.3
+1999,Infant Mortality Rate - Males,3.2
+1999,Infant Mortality Rate - Females,3.4
+1999,Neonatal Mortality Rate,1.9
+1999,Under-5 Mortality Rate,4.4
+1999,Under-5 Mortality Rate - Males,4.5
+1999,Under-5 Mortality Rate - Females,4.4
+2000,Infant Mortality Rate,2.5
+2000,Infant Mortality Rate - Males,2.8
+2000,Infant Mortality Rate - Females,2.2
+2000,Neonatal Mortality Rate,1.5
+2000,Under-5 Mortality Rate,3.8
+2000,Under-5 Mortality Rate - Males,3.9
+2000,Under-5 Mortality Rate - Females,3.6
+2001,Infant Mortality Rate,2.2
+2001,Infant Mortality Rate - Males,2.4
+2001,Infant Mortality Rate - Females,2.1
+2001,Neonatal Mortality Rate,1.1
+2001,Under-5 Mortality Rate,3.5
+2001,Under-5 Mortality Rate - Males,3.8
+2001,Under-5 Mortality Rate - Females,3.1
+2002,Infant Mortality Rate,2.9
+2002,Infant Mortality Rate - Males,3.4
+2002,Infant Mortality Rate - Females,2.3
+2002,Neonatal Mortality Rate,1.6
+2002,Under-5 Mortality Rate,3.4
+2002,Under-5 Mortality Rate - Males,3.8
+2002,Under-5 Mortality Rate - Females,3
+2003,Infant Mortality Rate,2.5
+2003,Infant Mortality Rate - Males,2.8
+2003,Infant Mortality Rate - Females,2.2
+2003,Neonatal Mortality Rate,1.6
+2003,Under-5 Mortality Rate,3.2
+2003,Under-5 Mortality Rate - Males,3.6
+2003,Under-5 Mortality Rate - Females,2.7
+2004,Infant Mortality Rate,2
+2004,Infant Mortality Rate - Males,2.2
+2004,Infant Mortality Rate - Females,1.8
+2004,Neonatal Mortality Rate,1.1
+2004,Under-5 Mortality Rate,3
+2004,Under-5 Mortality Rate - Males,3.3
+2004,Under-5 Mortality Rate - Females,2.6
+2005,Infant Mortality Rate,2.1
+2005,Infant Mortality Rate - Males,2.4
+2005,Infant Mortality Rate - Females,1.7
+2005,Neonatal Mortality Rate,1.3
+2005,Under-5 Mortality Rate,2.9
+2005,Under-5 Mortality Rate - Males,3.2
+2005,Under-5 Mortality Rate - Females,2.6
+2006,Infant Mortality Rate,2.6
+2006,Infant Mortality Rate - Males,2.8
+2006,Infant Mortality Rate - Females,2.4
+2006,Neonatal Mortality Rate,1.7
+2006,Under-5 Mortality Rate,2.9
+2006,Under-5 Mortality Rate - Males,3.2
+2006,Under-5 Mortality Rate - Females,2.5
+2007,Infant Mortality Rate,2.1
+2007,Infant Mortality Rate - Males,2.6
+2007,Infant Mortality Rate - Females,1.5
+2007,Neonatal Mortality Rate,1.2
+2007,Under-5 Mortality Rate,2.9
+2007,Under-5 Mortality Rate - Males,3.2
+2007,Under-5 Mortality Rate - Females,2.5
+2008,Infant Mortality Rate,2.1
+2008,Infant Mortality Rate - Males,2.6
+2008,Infant Mortality Rate - Females,1.7
+2008,Neonatal Mortality Rate,1.3
+2008,Under-5 Mortality Rate,2.7
+2008,Under-5 Mortality Rate - Males,3.1
+2008,Under-5 Mortality Rate - Females,2.3
+2009,Infant Mortality Rate,2.2
+2009,Infant Mortality Rate - Males,2.6
+2009,Infant Mortality Rate - Females,1.7
+2009,Neonatal Mortality Rate,1.3
+2009,Under-5 Mortality Rate,2.8
+2009,Under-5 Mortality Rate - Males,3.1
+2009,Under-5 Mortality Rate - Females,2.5
+2010,Infant Mortality Rate,2
+2010,Infant Mortality Rate - Males,1.9
+2010,Infant Mortality Rate - Females,2.1
+2010,Neonatal Mortality Rate,1.1
+2010,Under-5 Mortality Rate,2.9
+2010,Under-5 Mortality Rate - Males,3.2
+2010,Under-5 Mortality Rate - Females,2.5
+2011,Infant Mortality Rate,2
+2011,Infant Mortality Rate - Males,2.3
+2011,Infant Mortality Rate - Females,1.7
+2011,Neonatal Mortality Rate,1.3
+2011,Under-5 Mortality Rate,2.9
+2011,Under-5 Mortality Rate - Males,3.1
+2011,Under-5 Mortality Rate - Females,2.6
+2012,Infant Mortality Rate,1.8
+2012,Infant Mortality Rate - Males,2
+2012,Infant Mortality Rate - Females,1.6
+2012,Neonatal Mortality Rate,1.1
+2012,Under-5 Mortality Rate,2.7
+2012,Under-5 Mortality Rate - Males,2.9
+2012,Under-5 Mortality Rate - Females,2.5
+2013,Infant Mortality Rate,2
+2013,Infant Mortality Rate - Males,1.8
+2013,Infant Mortality Rate - Females,2.1
+2013,Neonatal Mortality Rate,1.1
+2013,Under-5 Mortality Rate,2.6
+2013,Under-5 Mortality Rate - Males,2.7
+2013,Under-5 Mortality Rate - Females,2.5
+2014,Infant Mortality Rate,1.8
+2014,Infant Mortality Rate - Males,1.9
+2014,Infant Mortality Rate - Females,1.7
+2014,Neonatal Mortality Rate,1.1
+2014,Under-5 Mortality Rate,2.5
+2014,Under-5 Mortality Rate - Males,2.8
+2014,Under-5 Mortality Rate - Females,2.3
+2015,Infant Mortality Rate,1.7
+2015,Infant Mortality Rate - Males,2.2
+2015,Infant Mortality Rate - Females,1.2
+2015,Neonatal Mortality Rate,0.8
+2015,Under-5 Mortality Rate,2.6
+2015,Under-5 Mortality Rate - Males,2.9
+2015,Under-5 Mortality Rate - Females,2.3
+2016,Infant Mortality Rate,2.4
+2016,Infant Mortality Rate - Males,2.3
+2016,Infant Mortality Rate - Females,2.5
+2016,Neonatal Mortality Rate,1.4
+2016,Under-5 Mortality Rate,2.7
+2016,Under-5 Mortality Rate - Males,3
+2016,Under-5 Mortality Rate - Females,2.3
